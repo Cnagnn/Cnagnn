@@ -1,168 +1,169 @@
-<h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30" width="30" alt="👋" /> I'm Yoga Pratama Putra Rizqulloh
-</h1>
-
-<h3 align="center">Frontend Web Developer / Full Stack Web Developer</h3>
-
 <p align="center">
-  Surabaya, Indonesia · Terbuka untuk peluang kerja · Open to work
+  <img src="./assets/hero.svg" alt="Yoga Pratama — Frontend craft. Full-stack thinking. Web developer based in Surabaya, Indonesia, open to work." width="100%" />
 </p>
 
 <p align="center">
-  Membangun antarmuka web yang responsif, mudah diakses, dan nyaman digunakan.<br />
-  <em>Building responsive, accessible, and user-friendly web interfaces.</em>
+  <a href="#01--the-developer">About</a> &nbsp; / &nbsp;
+  <a href="#02--selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#03--the-toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#04--behind-the-builds">Activity</a> &nbsp; / &nbsp;
+  <a href="#05--lets-build-something">Contact</a>
 </p>
 
-<p align="center">
-  <a href="https://cnagnn.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge" alt="Visit my portfolio / Kunjungi portofolio saya" />
-  </a>
-  <a href="mailto:yogapratamaputrar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let%27s%20Talk-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email / Hubungi saya melalui email" />
-  </a>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cnagnn&label=Profile%20views&color=0891b2&style=flat-square" alt="Jumlah kunjungan profil / Profile views" />
-</p>
+## 01 / The developer
 
----
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Good interfaces make complex things feel simple.</h3>
+      <p>I'm <strong>Yoga Pratama Putra Rizqulloh</strong>, a web developer who enjoys turning ideas into clear, responsive experiences. My focus is frontend development, with full-stack experience connecting interfaces to the logic and data behind them.</p>
+      <p>I work with <strong>React, TypeScript, and Laravel</strong>, paying attention to the details that make a product feel right: reusable components, accessibility, consistent design, and maintainable code.</p>
+      <a href="https://cnagnn.github.io/Portfolio/"><strong>Explore my portfolio ↗</strong></a>
+    </td>
+    <td width="35%" valign="top">
+      <h3>At a glance</h3>
+      <p><sub>BASED IN</sub><br /><strong>Surabaya, Indonesia</strong></p>
+      <p><sub>LOCAL TIME ZONE</sub><br /><strong>UTC+7 · Asia/Jakarta</strong></p>
+      <p><sub>MY SWEET SPOT</sub><br /><strong>Frontend × full stack</strong></p>
+      <p><sub>AVAILABILITY</sub><br /><strong>Open to work &amp; collaboration</strong></p>
+    </td>
+  </tr>
+</table>
 
-## 🙋 Tentang Saya · About Me
+<br />
 
-**Bahasa Indonesia**
+## 02 / Selected work
 
-Halo! Saya Yoga, frontend web developer dari Surabaya. Saya berfokus pada pengembangan website dan aplikasi web modern dengan antarmuka yang cepat, responsif, dan konsisten. Saya menggunakan HTML, CSS, JavaScript, dan React untuk membangun tampilan, serta Laravel, Inertia.js, dan MySQL untuk menghubungkannya dengan kebutuhan aplikasi.
+Three projects, from interactive learning to everyday business tools.
 
-Saya mengutamakan struktur kode yang rapi, komponen yang dapat digunakan kembali, dan perhatian pada detail pengalaman pengguna. Saat ini, saya terbuka untuk peluang kerja dan kolaborasi dalam pengembangan web.
+<a href="https://github.com/Cnagnn/Cryptere">
+  <img src="./assets/project-cryptere.svg" alt="Featured project: Cryptere — a gamified cryptography learning platform, built with Laravel, React, and TypeScript." width="100%" />
+</a>
 
-**English**
+### Cryptere / Learn. Solve. Level up.
 
-Hi! I'm Yoga, a frontend web developer based in Surabaya, Indonesia. I focus on building modern websites and web applications with fast, responsive, and consistent interfaces. I use HTML, CSS, JavaScript, and React for the frontend, alongside Laravel, Inertia.js, and MySQL to bring application features together.
-
-I care about well-structured code, reusable components, and thoughtful user experiences. I'm currently open to work opportunities and web development collaborations.
-
-## 🧠 Fokus Saya · My Focus Areas
-
-| Fokus · Focus | Yang saya kerjakan · What I work on |
-| --- | --- |
-| **Frontend Development** | Antarmuka responsif dan komponen yang dapat digunakan kembali.<br />*Responsive interfaces and reusable components.* |
-| **UI Implementation** | Mengubah desain menjadi tampilan web yang konsisten dan mudah diakses.<br />*Turning designs into consistent, accessible web interfaces.* |
-| **Full Stack Development** | Menghubungkan frontend, backend, dan database untuk membangun fitur aplikasi.<br />*Connecting frontend, backend, and databases to build application features.* |
-| **Performance & Maintenance** | Memperbaiki bug, merapikan kode, dan mengoptimalkan performa website.<br />*Fixing bugs, improving code quality, and optimizing website performance.* |
-
-## 🛠️ Bahasa & Peralatan · Languages & Tools
-
-<h3 align="center">Bahasa Pemrograman · Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" />
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
-</p>
-
-<h3 align="center">Backend & Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
-  <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Blade" />
-</p>
-
-<h3 align="center">Peralatan · Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40" />
-</p>
-
-## 🚀 Proyek Unggulan · Featured Projects
-
-### [Cryptere — E-Learning Kriptografi](https://github.com/Cnagnn/Cryptere)
-
-Platform pembelajaran kriptografi dengan materi terstruktur, kuis interaktif, tantangan coding, serta gamifikasi berupa XP, badge, dan leaderboard.
-
-*A cryptography e-learning platform featuring structured courses, interactive quizzes, coding challenges, and gamification through XP, badges, and leaderboards.*
+A cryptography e-learning platform that combines structured courses with interactive quizzes and coding challenges. XP, badges, and leaderboards make progress part of the learning experience.
 
 `Laravel` `React` `TypeScript` `Inertia.js` `Tailwind CSS` `MySQL`
 
-### [Project Kasir — Point of Sale](https://github.com/Cnagnn/Project_Kasir)
+**[Explore the repository ↗](https://github.com/Cnagnn/Cryptere)**
 
-Aplikasi kasir berbasis web untuk mengelola produk, stok, penjualan, pembelian, dan laporan, dengan akses berdasarkan peran pengguna.
+<br />
 
-*A web-based point-of-sale application for managing products, inventory, sales, purchases, and reports, with role-based access.*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cnagnn/Project_Kasir">
+        <img src="./assets/project-kasir.svg" alt="Project Kasir — a web-based point-of-sale and inventory application." width="100%" />
+      </a>
+      <h3>Project Kasir / Everyday operations</h3>
+      <p>A web-based point-of-sale application for products, inventory, sales, purchases, and reports, with role-based access.</p>
+      <p><code>Laravel</code> <code>PHP</code> <code>Blade</code><br /><code>JavaScript</code> <code>CSS</code></p>
+      <p><a href="https://github.com/Cnagnn/Project_Kasir"><strong>Explore the repository ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://cnagnn.github.io/Portfolio/">
+        <img src="./assets/project-portfolio.svg" alt="Personal Portfolio — a home for my work, experience, and web development services." width="100%" />
+      </a>
+      <h3>Portfolio / My corner of the web</h3>
+      <p>A personal website bringing together my background, selected projects, experience, and web development services.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><a href="https://cnagnn.github.io/Portfolio/"><strong>Visit the website ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Cnagnn/Portfolio">Source code</a></p>
+    </td>
+  </tr>
+</table>
 
-`Laravel` `PHP` `Blade` `JavaScript` `CSS`
+<br />
 
-### [Personal Portfolio](https://cnagnn.github.io/Portfolio/)
+## 03 / The toolkit
 
-Website portofolio yang menampilkan profil, pengalaman, proyek pilihan, dan layanan pengembangan web saya.
-
-*My personal portfolio showcasing my background, experience, selected projects, and web development services.*
-
-`HTML` `CSS` `JavaScript` · [Source code](https://github.com/Cnagnn/Portfolio)
-
-## 💼 Pengalaman · Experience
-
-**Frontend Web Developer Intern — CV. OTW Computer Gusaha**  
-September–Desember 2025 · *September–December 2025*
-
-## 📊 Aktivitas GitHub · GitHub Activity
-
-Kalender kontribusi setahun terakhir dalam tampilan isometrik, diperbarui setiap hari.<br />
-*An isometric view of my contributions over the past year, updated daily.*
-
-<p align="center">
-  <img src="./profile-3d-city.svg" alt="Kalender kontribusi isometrik Cnagnn / Cnagnn's isometric contribution calendar" width="100%" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="36" height="36" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" />
 </p>
 
-### 🚀 Contribution Space Shooter
+| Layer | What I use |
+| :--- | :--- |
+| **Interface** | React · Vue.js · TypeScript · JavaScript · HTML · CSS |
+| **Styling** | Tailwind CSS · Bootstrap |
+| **Application** | Laravel · PHP · Inertia.js · Blade · Node.js |
+| **Data** | MySQL |
+| **Workflow** | Git · Vite · VS Code · Figma · Postman |
 
-Kontribusi GitHub saya dalam animasi bergaya arcade.<br />
-*My GitHub contributions as an arcade-style animation.*
+### How I approach a build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>01 — STRUCTURE</sub>
+      <h4>Make it clear.</h4>
+      <p>Understand the user journey. Break the interface into focused, reusable components.</p>
+    </td>
+    <td width="34%" valign="top">
+      <sub>02 — CONNECT</sub>
+      <h4>Make it work.</h4>
+      <p>Connect the UI to application logic and data, with thoughtful states and interactions.</p>
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 — REFINE</sub>
+      <h4>Make it feel right.</h4>
+      <p>Check responsiveness, accessibility, and performance. Pay attention to the small details.</p>
+    </td>
+  </tr>
+</table>
+
+### Experience
+
+**Frontend Web Developer Intern** · CV. OTW Computer Gusaha<br />
+<sub>SEPTEMBER — DECEMBER 2025</sub>
+
+<br />
+
+## 04 / Behind the builds
+
+A small window into my GitHub activity. These visuals use my contribution data and refresh daily.
+
+<details>
+  <summary><strong>Open the contribution city ↗</strong> — an isometric view of the past year</summary>
+  <br />
+  <img src="./profile-3d-city.svg" alt="An isometric calendar of Cnagnn's GitHub contributions over the past year." width="100%" />
+</details>
+
+<details>
+  <summary><strong>Launch the arcade ↗</strong> — contributions, space-shooter style</summary>
+  <br />
+  <img src="./profile-space-shooter.gif" alt="An arcade-style space shooter generated from Cnagnn's GitHub contribution data." width="100%" />
+</details>
+
+<p><sub>Built with <a href="https://github.com/lowlighter/metrics">Metrics</a> and <a href="https://github.com/czl9707/gh-space-shooter">GitHub Space Shooter</a> · <a href="https://github.com/Cnagnn/Cnagnn/actions/workflows/city.yml">View workflow</a></sub></p>
+
+<br />
+
+## 05 / Let's build something
+
+Have a role, a project, or an idea in mind? I'd love to hear about it.
+
+<a href="mailto:yogapratamaputrar@gmail.com">
+  <img src="./assets/contact.svg" alt="Have something in mind? Let's turn it into something real. Email yogapratamaputrar@gmail.com." width="100%" />
+</a>
 
 <p align="center">
-  <img src="./profile-space-shooter.gif" alt="Animasi space shooter kontribusi Cnagnn / Cnagnn's contribution space shooter animation" width="100%" />
+  <a href="mailto:yogapratamaputrar@gmail.com"><strong>Email</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/yogapratamaputrar/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="https://wa.me/6285156566915"><strong>WhatsApp</strong></a> &nbsp; / &nbsp;
+  <a href="https://cnagnn.github.io/Portfolio/"><strong>Portfolio</strong></a>
 </p>
 
-## 🤝 Mari Terhubung · Let's Connect
-
-Punya ide proyek atau peluang kolaborasi? Mari berdiskusi!  
-*Have a project idea or a collaboration opportunity? Let's talk!*
+<br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yogapratamaputrar/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/6285156566915">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" title="WhatsApp" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:yogapratamaputrar@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" title="Email" width="40" height="40" />
-  </a>
-</p>
-
-- **Portfolio:** [cnagnn.github.io/Portfolio](https://cnagnn.github.io/Portfolio/)
-- **Email:** [yogapratamaputrar@gmail.com](mailto:yogapratamaputrar@gmail.com)
-- **GitHub:** [@Cnagnn](https://github.com/Cnagnn)
-
----
-
-<p align="center">
-  Terima kasih sudah berkunjung! · <em>Thanks for stopping by!</em>
+  <sub>YOGA PRATAMA &nbsp; / &nbsp; CNAGNN &nbsp; / &nbsp; BUILT WITH INTENTION</sub>
 </p>
