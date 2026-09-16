@@ -1,18 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-labelledby="title desc">
-  <title id="title">Project Kasir — Everyday operations</title>
-  <desc id="desc">Warm-toned project artwork with an abstract receipt representing a point-of-sale application.</desc>
-  <rect width="460" height="210" rx="12" fill="#2a221b" />
-  <path d="M284 0V210M308 0V210M332 0V210M356 0V210M380 0V210M404 0V210M428 0V210M452 0V210" stroke="#3b3025" />
-  <text x="24" y="34" font-family="DejaVu Sans Mono, monospace" font-size="11" letter-spacing="1.2" fill="#efc794">02 / BUSINESS TOOLS</text>
-  <g font-family="DejaVu Sans, sans-serif">
-    <text x="22" y="96" font-size="33" font-weight="bold" letter-spacing="-1" fill="#faf0e2">Project Kasir</text>
-    <text x="24" y="128" font-size="14" fill="#efc794">Everyday operations.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Project Kasir / Mini POS — Everyday operations</title>
+  <desc id="desc">Warm-toned project artwork with a receipt and inventory illustration representing a web-based point-of-sale application.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#3b3025" stroke-width="0.8" />
+    </pattern>
+  </defs>
+  <rect width="960" height="260" rx="16" fill="#2a221b" />
+  <path d="M570 0H944Q960 0 960 16V244Q960 260 944 260H570Z" fill="url(#grid)" />
+  <g font-family="DejaVu Sans Mono, monospace" font-size="12" letter-spacing="1.5">
+    <text x="34" y="42" fill="#efc794">02 / BUSINESS TOOLS</text>
+    <text x="34" y="222" fill="#cbb69d">LARAVEL + PHP + BLADE</text>
   </g>
-  <text x="24" y="182" font-family="DejaVu Sans Mono, monospace" font-size="10" fill="#cbb69d" letter-spacing="1">POINT OF SALE / INVENTORY</text>
-  <g transform="translate(327 48) rotate(7 46 62)">
-    <path d="M0 0H92V126l-8-5-8 5-7-5-8 5-8-5-8 5-8-5-8 5-7-5-7 5-7-5-8 5Z" fill="#efc794" />
-    <path d="M17 22H58M17 39H75M17 52H75M17 65H53" stroke="#6d4c2d" stroke-width="4" />
-    <path d="M17 83H75" stroke="#96704a" stroke-dasharray="3 3" />
-    <path d="M17 100H38M57 100H75" stroke="#4b3523" stroke-width="5" />
+  <g font-family="DejaVu Sans, sans-serif">
+    <text x="30" y="118" font-size="60" font-weight="bold" letter-spacing="-2" fill="#faf0e2">Mini POS</text>
+    <text x="34" y="158" font-size="21" fill="#efc794">Project Kasir / Everyday operations.</text>
+    <text x="34" y="187" font-size="14" fill="#cbb69d">Products, inventory, and sales. All in one place.</text>
+  </g>
+  <g transform="translate(603 82)">
+    <rect width="173" height="129" rx="10" fill="#352a20" stroke="#7d6246" />
+    <path d="M0 30H173" stroke="#7d6246" />
+    <circle cx="16" cy="15" r="4" fill="#efc794" />
+    <text x="31" y="19" font-family="DejaVu Sans Mono, monospace" font-size="10" fill="#efc794">INVENTORY</text>
+    <g fill="#5e4831">
+      <rect x="16" y="46" width="36" height="28" rx="4" />
+      <rect x="16" y="85" width="36" height="28" rx="4" />
+    </g>
+    <path d="M65 53H143M65 92H124" stroke="#cbb69d" stroke-width="5" />
+    <path d="M65 66H108M65 105H98" stroke="#7d6246" stroke-width="4" />
+  </g>
+  <g transform="translate(794 42) rotate(7 51 83)">
+    <path d="M0 0H102V169l-9-6-8 6-9-6-8 6-9-6-8 6-9-6-8 6-9-6-8 6-9-6-8 6Z" fill="#efc794" />
+    <text x="15" y="29" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="bold" fill="#4b3523">MINI POS</text>
+    <path d="M16 47H85" stroke="#96704a" stroke-dasharray="3 3" />
+    <path d="M16 65H85M16 81H85M16 97H61" stroke="#6d4c2d" stroke-width="4" />
+    <path d="M16 116H85" stroke="#96704a" stroke-dasharray="3 3" />
+    <path d="M16 136H42M66 136H85" stroke="#4b3523" stroke-width="5" />
   </g>
 </svg>

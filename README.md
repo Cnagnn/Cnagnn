@@ -36,7 +36,7 @@
 
 ## 02 / Selected work
 
-Three projects, from interactive learning to everyday business tools.
+Two selected projects: interactive learning and everyday business tools.
 
 <a href="https://github.com/Cnagnn/Cryptere">
   <img src="./assets/project-cryptere.svg" alt="Featured project: Cryptere — a gamified cryptography learning platform, built with Laravel, React, and TypeScript." width="100%" />
@@ -52,28 +52,17 @@ A cryptography e-learning platform that combines structured courses with interac
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Cnagnn/Project_Kasir">
-        <img src="./assets/project-kasir.svg" alt="Project Kasir — a web-based point-of-sale and inventory application." width="100%" />
-      </a>
-      <h3>Project Kasir / Everyday operations</h3>
-      <p>A web-based point-of-sale application for products, inventory, sales, purchases, and reports, with role-based access.</p>
-      <p><code>Laravel</code> <code>PHP</code> <code>Blade</code><br /><code>JavaScript</code> <code>CSS</code></p>
-      <p><a href="https://github.com/Cnagnn/Project_Kasir"><strong>Explore the repository ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://cnagnn.github.io/Portfolio/">
-        <img src="./assets/project-portfolio.svg" alt="Personal Portfolio — a home for my work, experience, and web development services." width="100%" />
-      </a>
-      <h3>Portfolio / My corner of the web</h3>
-      <p>A personal website bringing together my background, selected projects, experience, and web development services.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p><a href="https://cnagnn.github.io/Portfolio/"><strong>Visit the website ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Cnagnn/Portfolio">Source code</a></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Cnagnn/Project_Kasir">
+  <img src="./assets/project-kasir.svg" alt="Project Kasir / Mini POS — a web-based point-of-sale and inventory application, built with Laravel, PHP, and Blade." width="100%" />
+</a>
+
+### Project Kasir / Mini POS
+
+A web-based point-of-sale application that brings products, inventory, sales, purchases, and reports into one place. Role-based access supports the day-to-day work of managers and cashiers.
+
+`Laravel` `PHP` `Blade` `JavaScript` `CSS`
+
+**[Explore the repository ↗](https://github.com/Cnagnn/Project_Kasir)**
 
 <br />
 
