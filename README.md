@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I'm Yoga 👋</h1>
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30" width="30" alt="👋" /> I'm Yoga Pratama Putra Rizqulloh
+</h1>
+
+<h3 align="center">Frontend Web Developer / Full Stack Web Developer</h3>
 
 <p align="center">
-  <strong>Yoga Pratama Putra Rizqulloh</strong><br />
-  Frontend Web Developer · Surabaya, Indonesia
+  Surabaya, Indonesia · Terbuka untuk peluang kerja · Open to work
 </p>
 
 <p align="center">
@@ -17,6 +20,10 @@
   <a href="mailto:yogapratamaputrar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let%27s%20Talk-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email / Hubungi saya melalui email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cnagnn&label=Profile%20views&color=0891b2&style=flat-square" alt="Jumlah kunjungan profil / Profile views" />
 </p>
 
 ---
@@ -35,25 +42,54 @@ Hi! I'm Yoga, a frontend web developer based in Surabaya, Indonesia. I focus on 
 
 I care about well-structured code, reusable components, and thoughtful user experiences. I'm currently open to work opportunities and web development collaborations.
 
-## 🛠️ Teknologi · Tech Stack
+## 🧠 Fokus Saya · My Focus Areas
 
-**Frontend**
+| Fokus · Focus | Yang saya kerjakan · What I work on |
+| --- | --- |
+| **Frontend Development** | Antarmuka responsif dan komponen yang dapat digunakan kembali.<br />*Responsive interfaces and reusable components.* |
+| **UI Implementation** | Mengubah desain menjadi tampilan web yang konsisten dan mudah diakses.<br />*Turning designs into consistent, accessible web interfaces.* |
+| **Full Stack Development** | Menghubungkan frontend, backend, dan database untuk membangun fitur aplikasi.<br />*Connecting frontend, backend, and databases to build application features.* |
+| **Performance & Maintenance** | Memperbaiki bug, merapikan kode, dan mengoptimalkan performa website.<br />*Fixing bugs, improving code quality, and optimizing website performance.* |
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+## 🛠️ Bahasa & Peralatan · Languages & Tools
 
-**Backend & Tools**
+<h3 align="center">Bahasa Pemrograman · Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" />
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
+</p>
+
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Blade" />
+</p>
+
+<h3 align="center">Peralatan · Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40" />
+</p>
 
 ## 🚀 Proyek Unggulan · Featured Projects
 
@@ -86,10 +122,40 @@ Website portofolio yang menampilkan profil, pengalaman, proyek pilihan, dan laya
 **Frontend Web Developer Intern — CV. OTW Computer Gusaha**  
 September–Desember 2025 · *September–December 2025*
 
+## 📊 Aktivitas GitHub · GitHub Activity
+
+Kalender kontribusi setahun terakhir dalam tampilan isometrik, diperbarui setiap hari.<br />
+*An isometric view of my contributions over the past year, updated daily.*
+
+<p align="center">
+  <img src="./profile-3d-city.svg" alt="Kalender kontribusi isometrik Cnagnn / Cnagnn's isometric contribution calendar" width="100%" />
+</p>
+
+### 🚀 Contribution Space Shooter
+
+Kontribusi GitHub saya dalam animasi bergaya arcade.<br />
+*My GitHub contributions as an arcade-style animation.*
+
+<p align="center">
+  <img src="./profile-space-shooter.gif" alt="Animasi space shooter kontribusi Cnagnn / Cnagnn's contribution space shooter animation" width="100%" />
+</p>
+
 ## 🤝 Mari Terhubung · Let's Connect
 
 Punya ide proyek atau peluang kolaborasi? Mari berdiskusi!  
 *Have a project idea or a collaboration opportunity? Let's talk!*
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogapratamaputrar/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/6285156566915">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" title="WhatsApp" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yogapratamaputrar@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" title="Email" width="40" height="40" />
+  </a>
+</p>
 
 - **Portfolio:** [cnagnn.github.io/Portfolio](https://cnagnn.github.io/Portfolio/)
 - **Email:** [yogapratamaputrar@gmail.com](mailto:yogapratamaputrar@gmail.com)

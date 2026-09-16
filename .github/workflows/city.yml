@@ -1,0 +1,61 @@
+name: Update Profile Visuals
+
+on:
+  schedule:
+    # Every day at 07:17 WIB (UTC+7).
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/city.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  city:
+    name: Generate isometric contribution calendar
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Cnagnn
+          committer_branch: main
+          filename: profile-3d-city.svg
+          base: ""
+          base_skip: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Jakarta
+          plugins_errors_fatal: yes
+
+  space-shooter:
+    name: Generate contribution space shooter
+    needs: city
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # Get the latest main after the calendar job has committed its SVG.
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Generate animation
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Cnagnn
+          output-path: profile-space-shooter.gif
+          strategy: random
+          no-amend: "true"
